@@ -2,3 +2,5 @@
 <?php
 echo "hello world";
 ?>
+
+<footer>Copyright</footer>
